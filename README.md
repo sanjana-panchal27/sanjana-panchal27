@@ -1,8 +1,7 @@
 ## Hi there 👋
-<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/d0b1d164-6a07-4f57-9777-20072c4eaaa8" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=B.Tech+IT+Student;MERN+Stack+Developer;AI+%26+ML+Learner;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;AI+%26+ML+Learner;Building+Real+World+Projects" />
 </p>
 
 🌟MERN Stack developer| Tech Enthusiastic | AI/ML Driven
@@ -51,4 +50,6 @@
 </a> <br>
 </p>
 
+## Hobbies
+<p>I like to design, create. I use Figma to design the website.</p>
 ⭐ Feel free to explore my repositories and connect with me!
