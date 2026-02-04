@@ -16,13 +16,13 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/sanjana-panchal27/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a> <br>
+</a>
 <a href="https://www.instagram.com/_sanjana731_?igsh=MXJzamwyenBlODExcA==" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-</a> <br>
+</a> 
 <a href="mailto:panchalsanjana48@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-</a> <br>
+</a> 
 </p>
 
 ## 🧰 Languages & Tools  
@@ -34,20 +34,20 @@
 ## 📊 GitHub Performance
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sanjana-panchal27&show_icons=true&theme=radical" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=sanjana-panchal27&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=sanjana-panchal27&theme=radical" />
+<img width="100%" src="https://streak-stats.demolab.com?user=sanjana-panchal27&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 💪 Building
-<p>Connect with me on 
+<p>Connect with me on <br>
 <a href="https://www.instagram.com/art.by.sanjana731?igsh=ZHc2Ynp3bXN5cXdq" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-</a> <br>
+</a> 
 </p>
 
 ## Hobbies
